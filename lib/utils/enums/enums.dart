@@ -1,4 +1,0 @@
-enum AccountType {
-  social,
-  business,
-}
